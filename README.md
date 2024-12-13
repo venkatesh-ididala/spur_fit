@@ -1,8 +1,3 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The workout fitness interface you’ve created with React, utilizing powerful libraries like react-beautiful-dnd and re-resizable, offers an intuitive and interactive user experience. The interface allows users to dynamically add workouts to their routine by dragging and dropping workout cards into customizable sections, making it easy to arrange exercises in a preferred sequence. The integration of re-resizable enhances the UI by letting users adjust the size of individual workout components, providing flexibility in viewing or editing details. Once a routine is crafted, users can save it with a custom name for easy retrieval and tracking. This modern and responsive design ensures that fitness enthusiasts can create, manage, and personalize their workout plans seamlessly, fostering an engaging and efficient way to stay fit.
